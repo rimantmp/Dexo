@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Production build outputs
+dist/
+dist-ssr/
+
+# Rust / Cargo builds
+target/
+src-tauri/target/
+**/*.rs.bk
+
+# Downbyte temporary & local databases
+*.downbyte
+*.db
+*.db-wal
+*.db-shm
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Internal planning & AI documentation
+AGENTS.md
+Agent.md
+ARCHITECTURE.md
+DESIGN.md
+IMPLEMENTATION_PLAN.md
+PRD.md
+.agents/
+

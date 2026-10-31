@@ -1,0 +1,11 @@
+{
+  "name": "com.dexo.native",
+  "description": "Dexo Native Messaging Host Bridge",
+  "path": "dexo-host.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://*",
+    "edge-extension://*"
+  ]
+}
+
