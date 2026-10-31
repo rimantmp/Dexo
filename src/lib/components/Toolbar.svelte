@@ -17,7 +17,7 @@
 </script>
 
 <div class="h-16 bg-gradient-to-b from-slate-50 to-slate-100 border-b border-slate-300 px-3 flex items-center justify-between select-none">
-  <!-- IDM Action Buttons -->
+  <!-- Action Buttons -->
   <div class="flex items-center gap-1">
     <!-- Add URL -->
     <button

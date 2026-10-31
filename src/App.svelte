@@ -186,13 +186,13 @@
 </script>
 
 <div class="flex flex-col h-screen w-screen overflow-hidden bg-slate-100 font-sans text-slate-900 select-none">
-  <!-- 1. IDM Classic Menu Bar -->
+  <!-- 1. Menu Bar -->
   <MenuBar
     onAddUrl={() => (isAddModalOpen = true)}
     onOptions={() => (isOptionsModalOpen = true)}
   />
 
-  <!-- 2. IDM Classic Action Toolbar -->
+  <!-- 2. Action Toolbar -->
   <Toolbar
     bind:searchQuery
     onAddUrl={() => (isAddModalOpen = true)}

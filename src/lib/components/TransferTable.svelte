@@ -100,7 +100,7 @@
                 {/if}
               </td>
 
-              <!-- Status with IDM-style progress track -->
+              <!-- Status with progress track -->
               <td class="w-1/4 px-2 truncate">
                 <div class="flex items-center gap-2 min-w-0">
                   <!-- Mini Progress Bar -->
@@ -152,7 +152,7 @@
     {/if}
   </div>
 
-  <!-- Bottom IDM Status Bar -->
+  <!-- Bottom Status Bar -->
   <div class="h-6 bg-slate-100 border-t border-slate-300 px-3 flex items-center justify-between text-[11px] text-slate-600 shrink-0 font-mono">
     <div>
       Total: <span class="text-slate-900 font-semibold">{downloads.length}</span> file(s)

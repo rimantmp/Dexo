@@ -88,7 +88,7 @@
     {#if activeMenu === 'view'}
       <div class="absolute left-0 top-full mt-0.5 w-44 bg-white border border-slate-300 shadow-md rounded py-1 z-50 text-xs">
         <div class="px-3 py-1 text-slate-500 font-semibold text-[10px] uppercase">Toolbar Style</div>
-        <div class="px-3 py-1 text-slate-700">✓ Modern Classic IDM</div>
+        <div class="px-3 py-1 text-slate-700">✓ Default Density</div>
       </div>
     {/if}
   </div>

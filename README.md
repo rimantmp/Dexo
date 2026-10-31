@@ -7,7 +7,7 @@
 
 # Dexo
 
-**High-Performance Desktop Download Manager with IDM-Inspired Precision**
+**High-Performance Desktop Download Manager with Multi-Stream Acceleration**
 
 [![Release](https://img.shields.io/github/v/release/rimantmp/Dexo?style=flat-square&color=2563eb)](https://github.com/rimantmp/Dexo/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue?style=flat-square)](https://github.com/rimantmp/Dexo)
@@ -20,7 +20,7 @@
 
 ## Overview
 
-**Dexo** is a modern, lightweight desktop download manager built from the ground up as a native alternative to Internet Download Manager (IDM). Built on **Rust** and **Tauri 2**, Dexo combines an asynchronous multi-connection networking engine with a clean, high-density desktop interface and a companion browser extension.
+**Dexo** is a modern, lightweight desktop download manager built from the ground up for speed, reliability, and precision. Built on **Rust** and **Tauri 2**, Dexo combines an asynchronous multi-connection networking engine with a clean, high-density desktop interface and a companion browser extension.
 
 Unlike traditional Electron-based download tools, Dexo utilizes minimal RAM and CPU while delivering maximum network throughput through parallel byte-range chunking.
 

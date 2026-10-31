@@ -4,7 +4,7 @@ Ekstensi browser resmi Downbyte yang dirancang dengan **Manifest V3** untuk mena
 
 ## 🌟 Fitur Utama
 - **Automatic Download Interception**: Otomatis menangkap tautan unduhan sesuai format file yang dikonfigurasi (`.zip`, `.rar`, `.exe`, `.mp4`, `.pdf`, dll.) dan menghentikan pengunduhan lambat di browser.
-- **Video Sniffer Panel**: Menampilkan tombol mengambang *"Download with Downbyte"* di atas elemen video pada halaman web (mirip fitur video download panel pada IDM).
+- **Video Sniffer Panel**: Menampilkan tombol mengambang *"Download with Dexo"* di atas elemen video pada halaman web.
 - **Context Menu Integration**: Klik kanan pada tautan, gambar, atau media apa pun lalu pilih **"Download with Downbyte"**.
 - **Quick Download Popup**: Paste URL langsung di popup ekstensi untuk memulai download instan.
 
