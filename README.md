@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src=".img/Dexo-banner-logo.png" alt="Dexo - Modern Desktop Download Manager" width="100%" />
+
+<br />
+<br />
+
 # Dexo
 
 **High-Performance Desktop Download Manager with IDM-Inspired Precision**
